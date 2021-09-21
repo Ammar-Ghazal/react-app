@@ -1,0 +1,27 @@
+{
+  "name": "react-app",
+  "version": "1.0.0",
+  "description": "My first react app",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ammar-Ghazal/react-app.git"
+  },
+  "keywords": [
+    "microfrontends",
+    "react",
+    "webpack"
+  ],
+  "author": "Ammar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ammar-Ghazal/react-app/issues"
+  },
+  "homepage": "https://github.com/Ammar-Ghazal/react-app#readme",
+  "dependencies": {
+    "webpack": "^5.53.0"
+  }
+}
